@@ -1,5 +1,5 @@
 /.phpunit.cache
-# /node_modules
+/node_modules
 /public/build
 /public/hot
 /public/storage
@@ -17,3 +17,10 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+node_modules/.vite/deps_temp_691b616b/axios.js
+node_modules/.vite/deps_temp_691b616b/axios.js.map
+node_modules/.vite/deps_temp_691b616b/bootstrap.js
+node_modules/.vite/deps_temp_691b616b/bootstrap.js.map
+node_modules/.vite/deps_temp_691b616b/chunk-SSYGV25P.js
+node_modules/.vite/deps_temp_691b616b/chunk-SSYGV25P.js.map
+node_modules/.vite/deps_temp_691b616b/package.json
